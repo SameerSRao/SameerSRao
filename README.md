@@ -1,4 +1,4 @@
 # SameerRao22
 <div align="center">
-	# Hi, I'm Sameer
+	Hi, I'm Sameer
 <div>
