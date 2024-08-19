@@ -1,4 +1,4 @@
-<div align="center">
-  
-  # Hi, I'm Sameer.
-</div>
+### Hi, I'm Sameer
+
+- Reach me: sameersrao2@gmail.com
+- Pronouns: he/him
